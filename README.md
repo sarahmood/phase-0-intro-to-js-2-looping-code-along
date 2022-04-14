@@ -4,7 +4,7 @@
 
 - Build a `for` loop.
 - Build a `while` loop.
-- Explain the purpose of a loop.
+- Explaco.
 - Understand when to use each type of loop.
 
 ## Introduction
