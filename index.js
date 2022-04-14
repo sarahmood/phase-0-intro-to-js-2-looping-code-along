@@ -42,5 +42,5 @@ function countDown (num){
     }
     return num;
 }
-countDown(10);
+
 console.log(countDown(10));
